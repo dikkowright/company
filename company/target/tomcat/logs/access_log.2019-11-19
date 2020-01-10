@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:14:41:41 +0100] "GET /company/webapi/leave HTTP/1.1" 200 842 http-bio-8080-exec-2 7427
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:14:42:10 +0100] "GET /company/webapi/leave/3 HTTP/1.1" 200 277 http-bio-8080-exec-3 795
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:14:42:28 +0100] "GET /company/webapi/loan HTTP/1.1" 200 360 http-bio-8080-exec-4 1084
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:14:42:36 +0100] "GET /company/webapi/loan/4 HTTP/1.1" 200 175 http-bio-8080-exec-5 497
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:14:42:46 +0100] "GET /company/webapi/employees HTTP/1.1" 200 1171 http-bio-8080-exec-6 685
+0:0:0:0:0:0:0:1 - - [19/Nov/2019:14:42:53 +0100] "GET /company/webapi/employees/7 HTTP/1.1" 200 397 http-bio-8080-exec-7 429

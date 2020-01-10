@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [09/Nov/2019:20:49:03 +0000] "GET /company/webapi/loan/ HTTP/1.1" 200 2520 http-bio-8080-exec-2 12340
+0:0:0:0:0:0:0:1 - - [09/Nov/2019:20:51:00 +0000] "PUT /company/webapi/loan/14 HTTP/1.1" 200 239 http-bio-8080-exec-5 1840
